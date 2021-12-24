@@ -1,9 +1,9 @@
 <html>
-    <title>Web</title>
-    <body>
-    <p>java</p>
-<p>c++</p>
-<p>andriod</p>
+    <title>Andriod</title>
+ 
+	<h1> Layouts<h1>
+	<p> Linear layout<p>
+	<p> Relative layout<p>
     </body>
 
 </html>
